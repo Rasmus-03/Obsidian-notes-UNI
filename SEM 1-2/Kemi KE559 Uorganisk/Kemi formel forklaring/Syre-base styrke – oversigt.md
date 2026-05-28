@@ -1,0 +1,34 @@
+*Oversigt til hurtig identifikation af syre-/basestyrke og valg af korrekt beregningsformel.*
+---
+### 1. Stærke Syre & Baser (Fuldstændig hydronolyse)
+**Karakteristika:** Ingen $K_a$/$pK_a$ opgivet (eller $pK_a < 0$). Reaktionen løber 100%.
+- **Stærke syrer:** $HCl$, $HBr$, $HI$, $HNO_3$, $H_2SO_4$ (1. trin), $HClO_4$.
+- **Stærke baser:** $NaOH$, $KOH$, $LiOH$, $Ca(OH)_2$, $Ba(OH)_2$ (alle gruppe 1 & 2 hydroxider).
+**Formler:**
+- $\text{pH} = -\log(c_s)$, hvor $c_s$ er syrens startkoncentration i $M$.
+- $\text{pOH} = -\log(c_b)$, hvor $c_b$ er basens startkoncentration i $M$.
+- $\text{pH} = 14 - \text{pOH}$.
+---
+### 2. Svage Syre & Baser (Delvis ligevægt)
+**Karakteristika:** $K_a$/$pK_a$ eller $K_b$/$pK_b$ er opgivet ($pK_a$ typisk ml. 0 og 14).
+- **Eksempler:** $CH_3COOH$ (eddikesyre), $NH_3$ (ammoniak), $HF$, $NH_4^+$.
+**Formler (Approksimation hvis $c > 100 \cdot K$):**
+- $[H^+] = \sqrt{K_a \cdot c_s}$ $\rightarrow$ $\text{pH} = \frac{1}{2}(pK_a - \log(c_s))$
+- $[OH^-] = \sqrt{K_b \cdot c_b}$ $\rightarrow$ $\text{pOH} = \frac{1}{2}(pK_b - \log(c_b))$
+---
+### 3. Puffersystemer (Blanding)
+**Karakteristika:** Indeholder både en svag syre og dens korresponderende svage base.
+**Formel (Pufferligningen):**
+- $\text{pH} = pK_a + \log\left(\frac{n_{base}}{n_{syre}}\right)$ eller $\text{pH} = pK_a + \log\left(\frac{[\text{base}]}{[\text{syre}]}\right)$
+- *Husk:* Enheder skal være $mol$ eller $M$.
+---
+### Hurtig-tjek tabel
+| Type | Hvornår? | Formel-valg |
+| :--- | :--- | :--- |
+| **Stærk** | Ingen $K_a$/$pK_a$ | Direkte logaritme på $c$ |
+| **Svag** | $K_a$/$pK_a$ findes | Kvadratrod/halveringsformel |
+| **Puffer** | Både syre + base | Henderson-Hasselbalch |
+---
+[[1 Formelsamling KE559 – Grundlæggende Kemi]]
+[[Syre-base styrke – forklaring]]
+[[Pufferligningen – forklaring]]

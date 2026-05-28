@@ -1,0 +1,4 @@
+Hvordan evolutionære træer viser slægtskab mellem nulevende arter 
+
+Eksempel:
+Homologe strukturer er strukturer, som har samme grundlæggende opbygning og samme evolutionære oprindelse, selvom de kan have forskellige funktioner. Et klassisk eksempel er forlemmer hos pattedyr, som menneskets arm, flagermusens vinge og hvalens luffe. Selvom disse lemmer bruges til vidt forskellige formål som at gribe, flyve eller svømme, består de af de samme knogler i den samme rækkefølge. Det viser, at de stammer fra en fælles forfader, og at strukturerne over tid er blevet tilpasset forskellige levevis. Homologe strukturer er derfor et vigtigt bevis for evolution og fælles afstamning og er et resultat af divergent evolution.

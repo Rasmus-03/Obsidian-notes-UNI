@@ -1,0 +1,1 @@
+**Tilpasninger**, Darwin mente at tilpasning er nedarvede egenskaber hos organismer, som øger deres overlevelse og reproduktion i specifikke miljøer. Senere, da han revurderede sine observationer, begyndte han at opfatte tilpasning til miljøet og oprindelsen af nye arter som nært beslægtede processer. Kunne en ny art opstå

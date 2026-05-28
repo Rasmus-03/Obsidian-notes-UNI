@@ -1,0 +1,21 @@
+{
+  "serverAddress": "http://localhost:3001",
+  "llmModel": "mistral",
+  "maxTokens": 2000,
+  "temperature": 0.7,
+  "providerType": "ollama",
+  "stream": true,
+  "customPrompt": "create a todo list from the following text:",
+  "outputMode": "replace",
+  "personas": "default",
+  "maxConvHistory": 3,
+  "responseFormatting": false,
+  "responseFormatPrepend": "``` LLM Helper - generated response \n\n",
+  "responseFormatAppend": "\n\n```",
+  "lastVersion": "2.3.3",
+  "embeddingModelName": "",
+  "braveSearchApiKey": "",
+  "openAIApiKey": "lm-studio",
+  "searchProvider": "tavily",
+  "tavilyApiKey": ""
+}
