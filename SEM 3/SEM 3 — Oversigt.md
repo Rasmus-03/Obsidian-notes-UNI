@@ -61,15 +61,15 @@ SEM 3/
 
 ## 📝 Eksamensoversigt (fra SDU kursusbeskrivelser)
 
-| Kursus | Kode | Eksamen | ECTS/eksamen | Censur | Hjælpemidler |
-|--------|:----:|---------|:----:|--------|--------------|
-| **Fundamental Biokemi** | BMB532 | Portfolio + tests + **skriftlig stedprøve (4 t, januar)** | 10 | Ekstern | ⚠️ Begrænsede: standardlommeregner, Maple/Mathematica/Mathcad/MatLab/GeoGebra/R/Excel/Calc, ordbogen.com (elektronisk), **ingen internet** |
-| **Molekylær biologi og proteinkemi** | BMB533 | Forudsætningsprøve (lab-deltagelse) + **lab-rapporter** (B/I) + skriftlig | 10 | Intern | Oplyses på kurset |
-| **Fysisk Biokemi** | BMB540 | Forudsætningsprøve (portfolio: lab-rapporter + ¾ oblig. hjemmeopgaver) + **skriftlig eksamen (4 t, januar)** | 5 | Intern (2+ bedømmere) | ⚠️ Begrænsede: standardlommeregner, Maple/Mathematica/Mathcad/MatLab/GeoGebra/R/Excel/Calc, **ingen internet** |
-| **Organisk kemi for BMB** | KE555 | **Mundtlig eksamen (30 min + 60 min forberedelse)** | 5 | Intern (2+ bedømmere) | ✅ Alle almindelige hjælpemidler (bøger, noter, offline-programmer) — **ingen internet** |
+| Kursus | Kode | Eksamen | Karaktergivning | Censur | Hjælpemidler |
+|--------|:----:|---------|:----------------:|--------|--------------|
+| **Fundamental Biokemi** | BMB532 | Portfolio + tests + **skriftlig stedprøve (4 t, januar)** | **7-trins-skala** | Ekstern | ⚠️ Begrænsede: standardlommeregner, Maple/Mathematica/Mathcad/MatLab/GeoGebra/R/Excel/Calc, ordbogen.com (elektronisk), **ingen internet** |
+| **Molekylær biologi og proteinkemi** | BMB533 | Forudsætningsprøve (lab-deltagelse B/I) + **lab-rapporter** (B/I) + **skriftlig** (7-trins) | **Blandet: B/I (lab)** + **7-trins** (skriftlig) | Intern | Oplyses på kurset |
+| **Fysisk Biokemi** | BMB540 | Forudsætningsprøve (portfolio: lab-rapporter + ¾ oblig. hjemmeopgaver, B/I) + **skriftlig eksamen (4 t, januar)** | **7-trins-skala** | Intern (2+ bedømmere) | ⚠️ Begrænsede: standardlommeregner, Maple/Mathematica/Mathcad/MatLab/GeoGebra/R/Excel/Calc, **ingen internet** |
+| **Organisk kemi for BMB** | KE555 | **Mundtlig eksamen (30 min + 60 min forberedelse)** | **7-trins-skala** | Intern (2+ bedømmere) | ✅ Alle almindelige hjælpemidler (bøger, noter, offline-programmer) — **ingen internet** |
 
 > [!TIP] Hurtige noter
-> - **BMB532**: Eksamen er januar, med **begrænsede** hjælpemidler — sæt dig ind i R/Excel til udregninger.
-> - **BMB540**: Portfolio (lab-rapporter + hjemmeopgaver) er **forudsætning** for at kunne gå til 4-timers skriftlig.
-> - **BMB533**: Lab-rapporterne (B/I) er en forudsætningsprøve — få dem godkendt!
-> - **KE555**: Mundtlig — 60 min forberedelse, hvor alle noter/bøger er tilladt (offline).
+> - **BMB532**: Skriftlig i januar, **7-trins**, ekstern censor — med begrænsede hjælpemidler; sæt dig ind i R/Excel.
+> - **BMB533**: Lab-rapporter gives **B/I** og er forudsætning; selve den skriftlige gives **7-trins**.
+> - **BMB540**: Portfolio (B/I) er **forudsætning** for 4-timers skriftlig med **7-trins**.
+> - **KE555**: Mundtlig, **7-trins** — 60 min forberedelse med alle noter/bøger tilladt (offline).
