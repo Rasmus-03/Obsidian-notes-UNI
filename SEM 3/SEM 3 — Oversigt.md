@@ -14,7 +14,7 @@
 | **Fundamental Biokemi** | BMB532 | 10 | [[Fundamental Biokemi BMB532]] |
 | **Molekylær biologi og proteinkemi** | BMB533 | 10 | [[Molekylær biologi og proteinkemi BMB533]] |
 | **Fysisk Biokemi** | BMB540 | 5 | [[Fysisk Biokemi BMB540]] |
-| **Bioanalytisk instrumentering** | BMB509 | 5 | [[Bioanalytisk instrumentering BMB509]] |
+| **Organisk kemi for Biokemi og Molekylærbiologi** | KE555 | 5 | [[Organisk kemi for BMB KE555]] |
 
 ---
 
@@ -23,10 +23,10 @@
 ```
 SEM 3/
 ├── Fundamental Biokemi BMB532/
-│   └── <KAP/tema> — <emne>.md
+│   └── <Del/KAP> — <emne>.md
 ├── Molekylær biologi og proteinkemi BMB533/
 ├── Fysisk Biokemi BMB540/
-└── Bioanalytisk instrumentering BMB509/
+└── Organisk kemi for BMB KE555/
 ```
 
 - Opret hver forelæsning fra den tilhørende template i `Template/`.
@@ -36,7 +36,7 @@ SEM 3/
 > - BMB532 → *Fundamental Biokemi template BMB532*
 > - BMB533 → *Molekylær biologi og proteinkemi template BMB533*
 > - BMB540 → *Fysisk Biokemi template BMB540*
-> - BMB509 → *Bioanalytisk instrumentering template BMB509*
+> - KE555 → *Organisk kemi for BMB template KE555*
 
 ---
 
@@ -54,5 +54,5 @@ SEM 3/
 ### Fysisk Biokemi (BMB540)
 - **Termodynamik** · **Blandinger og opløsninger** · **Biokemisk kinetik** · **Ioniske opløsninger i biokemi** · **To-tilstandssystemer** · **Lys-stof-vekselvirkning** · **Diffusion og transport**
 
-### Bioanalytisk instrumentering (BMB509)
-- **Mikroskopi og billedbehandling** (inkl. Fluorescensmikroskopi) · **Massespektrometri** · **Kromatografi**
+### Organisk kemi for BMB (KE555)
+- **Grundstrukturer og stereokemi** · **Delokalisering, resonans og aromaticitet** · **Substitution og elimination** · **Alkoholer, aminer og thioler** · **Carbonylforbindelser** · **Heterocykliske forbindelser** · **Syre-base kemi** · **Biokemiske reaktionstyper** · **Anvendelser i biokemi**
