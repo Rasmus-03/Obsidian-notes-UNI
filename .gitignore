@@ -6,3 +6,9 @@ SEM 1-2/Molekylær data science/Data science forlæsninger/Spring lecture/Applic
 .DS_Store
 # Store filer >100MB (GitHub limit)
 SEM 1-2/Cellulær udvikling BMB 547/KAP 48-49 Nervesystem og Sansning/Forelæsning_ElectricalSignaling_Kap48.pptx
+
+# AI session/arbejdsdata (aldrig push)
+.aider*
+.aider-desk/
+.smart-env/
+.opencode/
