@@ -1,6 +1,9 @@
 
 # Middelacceleration
 
+> [!tip] **For en 5-årig:** 
+> ⟨a⟩ = Δv/Δt er gennemsnitsacceleration: Hvor meget din hastighed ændrer sig i gennemsnit per sekund.
+
 **Definition**  
 Gennemsnitlig ændring af hastighed over et tidsinterval.
 

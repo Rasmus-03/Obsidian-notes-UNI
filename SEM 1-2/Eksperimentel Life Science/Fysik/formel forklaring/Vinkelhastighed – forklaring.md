@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> ω = v/r fortæller, hvor hurtigt noget drejer rundt. Hvis en bil kører hurtigt i en skarp kurve (lille r), drejer den hurtigt om midten – stor vinkelhastighed.
 
 
 **Formel**

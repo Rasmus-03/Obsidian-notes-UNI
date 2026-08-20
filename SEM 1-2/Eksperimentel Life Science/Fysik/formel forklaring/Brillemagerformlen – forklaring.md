@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Når brillemageren laver dine briller, skal han vide præcis, hvor meget glasset skal bukke lyset. Formlen fortæller, hvordan linsens krumning og glas-type bestemmer styrken – ligesom en opskrift på den perfekte linse.
 
 **Formel**
 $$

@@ -1,0 +1,164 @@
+---
+tags: e-timer, evolution, naturlig-selektion, populationsgenetik
+---
+
+# E-timer – Kapitel 21: How Evolution Works
+
+> [!question]- **Opgave 1 – Definition af centrale begreber**
+> Definer følgende begreber i en evolutionær sammenhæng:
+
+| Begreb | Definition |
+|--------|-----------|
+| **Fitness** | Et mål for en organismes evne til at overleve og reproducere i et givent miljø. Jo flere fertile afkom en organisme bidrager med til næste generation, desto højere fitness. Relativ fitness sammenligner en organismes reproduktive succes med andre i populationen. |
+| **Tilpasning (adaptation)** | Et arveligt træk (fænotypisk eller fysiologisk), der øger organismens fitness i et bestemt miljø. Opstår gennem naturlig selektion over generationer. |
+| **Teori** | En videnskabelig teori er en velunderbygget, omfattende forklaring af et naturfænomen, understøttet af empiriske data og gentagne tests. I evolutionær sammenhæng: Evolutionsteorien er en *teori* i videnskabelig forstand (ikke en "gæt"). |
+| **Evolution** | Ændring i arvelige træk (allelfrekvenser) i en population over generationer. Drives af mutation, [[naturlig selektion]], [[genetisk drift]], [[genflow]] og [[seksuel selektion]]. |
+| **Population** | En gruppe individer af samme art, der lever i samme geografiske område og kan reproducere med hinanden. Populationen er den enhed, der evolutionært set ændrer sig. |
+| **Individ** | Én enkelt organisme. Individer kan ikke selv evolutionere, men variation *mellem* individer er forudsætningen for naturlig selektion. |
+
+---
+
+> [!question]- **Opgave 2 – Mekanismerne bag evolution**
+> Redegør for mekanismerne bag evolution under inddragelse af begreberne *modifikationer*, *nedarvet* og *fitness*. Diskuter hvilke begreber, der omfatter en **tilfældig proces** og hvilke, der er **målrettede**.
+
+**Mekanismerne:**
+
+1. **Variation** – Individer i en population er ikke identiske. Variation opstår gennem:
+   - [[Mutation]] (tilfældig ændring i DNA)
+   - Rekombination (krydsning under meiose)
+   - Tilfældig → *tilfældig proces*
+
+2. **Nedarvning** – Variationer skal kunne overføres til næste generation. Kun genetisk (arvelig) variation har betydning for evolution.
+
+3. **Fitness-forskelle** – Individer med bestemte træk (modifikationer) har højere sandsynlighed for at overleve og reproducere.
+   - [[Naturlig selektion]] → *målrettet proces* (miljøet "selekterer" for eller imod træk)
+   - [[Seksuel selektion]] → *delvis målrettet* (parringspræferencer)
+   - [[Genetisk drift]] → *tilfældig proces* (allelfrekvenser ændres tilfældigt, især i små populationer)
+   - [[Genflow]] → *tilfældig/migrationsbestemt* (ind- og udvandring ændrer genpuljen)
+
+> [!summary] **Tilfældige vs. målrettede processer**
+> - **Tilfældige**: Mutation, genetisk drift, founder-effekt, flaskehalseffekt
+> - **Målrettede**: Naturlig selektion (miljøet "vælger"), seksuel selektion
+> - **Blandet**: Genflow (kan være tilfældigt eller rettet efter miljøfaktorer)
+
+---
+
+> [!question]- **Opgave 3 – Observation af naturlig selektion i biomedicin**
+> Giv eksempler på hvordan man kan observere naturlig selektion inden for biomedicinske områder, og hvordan evolutionære mekanismer kan udnyttes.
+
+**Eksempler:**
+
+1. **Antibiotikaresistens** – [[Mycobacterium tuberculosis]] og MRSA: Bakterier med resistensmutationer overlever antibiotikabehandling og formerer sig. Dette er *naturlig selektion i realtid*.
+
+2. **Malaria og seglcelleanæmi** – [[Sicklecelle-anæmi]]: Heterozygote for seglcellemutationen har beskyttelse mod malaria ([[heterozygot fordel]]). Dette er et klassisk eksempel på [[balanceret selektion]].
+
+3. **Vaccinedrevet evolution** – Nogle virusstammer (f.eks. influenza, SARS-CoV-2) udvikler mutationer i spikeproteinet, der gør dem i stand til at undgå vaccine-inducerede antistoffer (selektionspres → evolution).
+
+4. **Kræft som evolution** – Kræftceller i en tumor udgør en *klonal population*, hvor celler med mutationsfordele (f.eks. resistens mod kemoterapi) selekteres → [[evolutionære mekanismer]].
+
+**Udnyttelse af evolution i biomedicin:**
+
+- **Directed evolution** – Man designer proteiner (f.eks. enzymer til lægemiddelproduktion) ved at indføre mutationer og selektere for forbedret funktion.
+- **Fagterapi** – Bakteriofager kan evolueres til at inficere antibiotikaresistente bakterier.
+- **Vaccineudvikling** – Man forudsiger evolutionære baner for virus for at designe bredt dækkende vacciner.
+
+---
+
+> [!question]- **Opgave 4 – Homologe vs. analoge strukturer**
+> Giv eksempler på homologe og analoge strukturer/fænomener og diskuter hvorfor man skal tage forbehold for forskellen ifm. medicinske test eller behandlinger.
+
+| Type | Definition | Eksempel |
+|------|-----------|----------|
+| **[[Homologi\|Homologe strukturer]]** | Samme evolutionære ophav, forskellig funktion | Menneske-arm, flagermus-vinge, hval-luffe (pentadaktyl lem) |
+| **[[Konvergent evolution\|Analoge strukturer]]** | Forskelligt ophav, samme funktion | Fuglevinge, flagermus-vinge, insekt-vinge; øjet hos blæksprutter vs. hvirveldyr |
+
+> [!warning] **Vigtigt for medicinske test**
+> Hvis man tester et lægemiddel på en modelorganisme baseret på *analoge* strukturer (f.eks. et bestemt enzym, der har samme funktion men forskelligt evolutionært ophav), kan resultaterne være misvisende:
+> - **Homologi → mere forudsigeligt** – Fælles oprindelse betyder ofte samme biokemiske mekanismer
+> - **Analogi → mindre forudsigeligt** – Samme funktion men forskellig molekylær mekanisme kan føre til uventede bivirkninger
+> - Eksempel: COX-enzymer hos mennesker vs. mus er homologe → gode modeller; COX-lignende enzymer i insekter er analoge → dårlig model for human medicin
+
+---
+
+> [!question]- **Opgave 5 – Evolutionære aspekter ved valg af modelorganisme**
+> Diskuter hvilke evolutionære aspekter man bør tage i betragtning ved valg af modelorganisme.
+
+**Centrale evolutionære overvejelser:**
+
+1. **[[Homologi]]** – Hvor tæt beslægtet er modelorganismen med mennesket? Gener, der er homologe (fælles ophav), har større sandsynlighed for at have samme funktion.
+
+2. **Fylogenetisk afstand** – En mus (*Mus musculus*) og menneske deler ~85% af generne, mens gær (*S. cerevisiae*) deler ~30% og bananflue (*Drosophila*) ~60%. Jo tættere fylogeni, desto mere relevant for human fysiologi.
+
+3. **Gen-duplikation og paralogi** – Nogle gener er blevet duplikeret i forskellige linjer ([[paraloge vs. ortologe gener]]). Et gen i modelorganismen kan have en anden funktion end det tilsyneladende tilsvarende gen i mennesket.
+
+4. **Konvergent evolution** – Strukturer eller processer, der ser ens ud, kan have forskellig molekylær baggrund (jf. opgave 4).
+
+5. **Generalisering på tværs af arter** – Selv homologe systemer kan opføre sig forskelligt grundet arts-specifikke tilpasninger (f.eks. rotte vs. human levermetabolisme).
+
+> [!example] **Praktiske implikationer**
+> - Mus er fremragende til kræftforskning grundet homologe tumorsuppressorgener ([[Genom]])
+> - Gær er god til cellecyklus-studier (homologe checkpoint-gener)
+> - Frugtfluer er gode til udviklingsbiologi ([[Hox-gener]] er homologe på tværs af dyreriget)
+
+---
+
+> [!question]- **Opgave 6 – Naturlig selektion vs. kunstig selektion**
+> Diskuter forskellene mellem naturlig selektion og kunstig selektion og giv eksempler.
+
+| Aspekt | [[Naturlig selektion]] | Kunstig selektion |
+|--------|----------------------|-------------------|
+| **Selektionspres** | Miljøet (rovdyr, klima, føde, sygdomme) | Mennesket (bevidst valg af ønskede træk) |
+| **Mål** | Øget fitness i et givent miljø | Menneskelige præferencer (udbytte, udseende, adfærd) |
+| **Tidshorisont** | Tit langsom (årtier til millioner af år) | Kan være hurtig (få generationer) |
+| **Variation** | Naturligt opstået (mutation, rekombination) | Naturligt opstået + krydsning af eliteindivider |
+| **Bevidsthed** | Blind proces – ingen "mål" | Målrettet – mennesket vælger |
+
+**Eksempler:**
+
+- **Kunstig selektion**: Tamhunden (*Canis familiaris*) fra ulven – racer som chihuahua og grand danois er resultat af bevidst avl.
+- **Kunstig selektion**: Majs (*Zea mays*) fra teosinte-græs – tusindvis af års selektion for større kerner.
+- **Naturlig selektion**: Antibiotikaresistente bakterier – spontant opstået under selektionspres fra antibiotika.
+- **Naturlig selektion**: Mørkfarvet natsommerfugl (*Biston betularia*) under industrialiseringen (industriel melani).
+
+---
+
+> [!question]- **Opgave 7 – Liv på Merkur – evolutionære implikationer**
+> Antag at man finder liv på Merkur med samme nukleinsyrer og 20 aminosyrer som Jorden, men med 3 ekstra aminosyrer. Diskuter hvornår disse livsformer er opstået ift. livet på Jorden.
+
+**Mulige scenarier:**
+
+1. **Fælles oprindelse (panspermia)** – Hvis de deler den samme genetiske kode og de samme 20 aminosyrer, peger det på **en fælles oprindelse**. De 3 ekstra aminosyrer kan være en senere tilpasning til Merkurs intense solstråling.
+
+2. **Tidslinje**:
+   - Hvis de er opstået *før* Jorden: De har haft mere tid til at udvikle yderligere aminosyrer → sandsynligt, hvis Merkur tidligere havde en atmosfære/vand.
+   - Hvis de er opstået *samtidigt* (fælles oprindelse): Merkur-organismerne har undergået anderledes selektionspres → udviklet ekstra strålingsbeskyttelse.
+   - Hvis de er opstået *efter* Jorden: Mindre sandsynligt, da Merkur hurtigt mistede sin atmosfære.
+
+3. **Ribozymer og abiotisk syntese** – De 20 fælles aminosyrer understøtter hypotesen om, at den abiotiske syntese af biologiske molekyler var ens i Solsystemet, og at den genetiske kode blev "frosset" tidligt.
+
+4. **Implikation for LUCA** – Hvis begge livsformer deler nukleinsyrer og aminosyresæt, peger det på, at den sidste universelle fælles forfader (LUCA) eksisterede *før* solsystemets planeter afkøledes, eller at livet blev transporteret mellem planeterne (lithopanspermia).
+
+> [!info] **Konklusion**
+> Den mest parsimoniske forklaring er, at livet på Jorden og Merkur har **fælles ophav** (enten via panspermia eller fælles abiotisk oprindelse i soltågen). De 3 ekstra aminosyrer er en *relativt sen tilpasning* til Merkurs miljø, hvilket tyder på, at livet har eksisteret der i lang tid – muligvis lige så længe som på Jorden.
+
+---
+
+> [!question]- **Opgave 8 – Kritik af intelligent design**
+> Diskuter hvorfor intelligent design ikke betragtes som en videnskabelig teori.
+
+**Argumenter mod intelligent design som videnskab:**
+
+1. **Ikke testbart/falsificerbart** – Intelligent design fremsætter ingen specifikke, testbare hypoteser. Man kan ikke designe et eksperiment, der kan modbevise det.
+
+2. **Ingen mekanisme** – Naturlig selektion har en velbeskrevet mekanisme (mutation → variation → selektion → evolution). Intelligent design tilbyder ingen mekanisme ud over "en designer gjorde det".
+
+3. **Manglende evidens** – Der er ingen empiriske data, der understøtter intelligent design. Al evidens fra genetik, fossiljournalen og komparativ biologi understøtter evolution.
+
+4. **Irreducible complexity er modbevist** – Påstanden om, at visse strukturer (f.eks. øjet, bakterieflagel) er "irreducibly complex" og derfor må være designet, er blevet tilbagevist: man har fundet evolutionære forstadier til alle påståede eksempler.
+
+5. **Videnskabelig konsensus** – Over 99,9% af alle biologer accepterer evolutionsteorien. Intelligent design afvises af samtlige videnskabelige organisationer (herunder National Academy of Sciences, American Association for the Advancement of Science).
+
+6. **Intet forudsigelsespotentiale** – Evolutionsteorien kan forudsige f.eks. fossile mellemformer, genetiske mønstre og antibiotikaresistens. Intelligent design kan ikke forudsige noget som helst.
+
+> [!summary] **Videnskab vs. ikke-videnskab**
+> Intelligent design er en *religiøs/metafysisk* påstand, ikke en videnskabelig teori, fordi den ikke opfylder videnskabelige kriterier som testbarhed, falsificerbarhed, mekanistisk forklaring og forudsigelseskraft.

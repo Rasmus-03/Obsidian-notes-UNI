@@ -1,5 +1,11 @@
 # HARMONISKE SVINGNINGER – INTERAKTIVE OPGAVER
 
+> [!tip] **For en 5-årig:** 
+> Forestil dig en gynge på legepladsen. Hvis du giver et lille skub, svinger den frem og tilbage med en bestemt rytme. Jo tungere du er, jo langsommere svinger gyngen – medmindre du skubber hårdere. Den rytme kalder vi frekvens, og en hel svingning frem og tilbage er én periode.
+> 
+> I en Orbitrap-maskine sker det samme med usynlige partikler (ioner). De svinger op og ned i et elektrisk felt i stedet for en fjeder, og deres frekvens afslører, hvor tunge de er. Det er en meget præcis vægt til de allermindste ting.
+> 
+> Her regner du på svingninger – både på en almindelig fjeder og i Orbitrap-maskinen.
 
 ---
 

@@ -1,1 +1,0 @@
-Naturlig selektion øger [[Fitness]] 

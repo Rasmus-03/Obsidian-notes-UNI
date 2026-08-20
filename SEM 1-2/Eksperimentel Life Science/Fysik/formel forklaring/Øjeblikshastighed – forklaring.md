@@ -1,3 +1,5 @@
+> [!tip] **For en 5-årig:** 
+> v(t) = dx/dt er hastigheden lige nu – hvad speedometeret viser i dette øjeblik. Ikke gennemsnittet over hele turen, men præcis nu.
 
 **Definition**  
 Øjeblikshastighed angiver, hvor hurtigt og i hvilken retning et objekt bevæger sig **på et givent tidspunkt**.

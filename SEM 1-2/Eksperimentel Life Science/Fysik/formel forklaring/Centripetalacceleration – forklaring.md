@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Når du løber rundt i en cirkel, føler du, at noget trækker dig ind mod midten. Det er centripetalacceleration – den acceleration, der ændrer din retning hele tiden. Selvom farten er den samme, accelererer du, fordi du konstant svinger.
 
 **Formel**
 $$

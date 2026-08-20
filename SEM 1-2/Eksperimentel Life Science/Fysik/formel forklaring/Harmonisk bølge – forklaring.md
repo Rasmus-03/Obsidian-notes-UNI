@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> En harmonisk bølge er en flot, jævn bølge – som når du giver et tov et ryk, og der løber en jævn bølge hen ad det. y = Acos(kx-ωt) er matematikkens måde at tegne den bølge på: A er højden, og leddet inde i cos fortæller, hvor hurtigt den løber.
 
 **Formel**
 $$

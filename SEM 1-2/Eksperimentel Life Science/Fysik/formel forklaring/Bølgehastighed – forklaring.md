@@ -1,5 +1,8 @@
 ## Bølgehastighed – forklaring
 
+> [!tip] **For en 5-årig:** 
+> Forestil dig, at du står ved stranden og tæller bølger. Hvis bølgerne kommer tæt (kort bølgelængde) og tit (høj frekvens), løber de hurtigt. v = fλ er formlen, der forbinder dem: hastighed = frekvens × bølgelængde.
+
 **Formel**
 $$
 v = f\lambda

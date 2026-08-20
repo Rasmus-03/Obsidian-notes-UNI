@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Når du leger med magneter, kan du mærke, at de skubber eller trækker uden at røre hinanden. Magnetisk kraft på en ladet partikel er den samme idé: En partikel i bevægelse oplever en kraft fra et magnetfelt – på tværs af både fart og feltretning.
 
 **Formel**
 $$

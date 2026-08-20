@@ -1,4 +1,8 @@
 # Middelhastighed ⟨v⟩
+
+> [!tip] **For en 5-årig:** 
+> ⟨v⟩ = Δx/Δt er gennemsnitshastighed: hvor langt du kom i alt delt med tiden. Det er din "glatte" hastighed, som om du gik ligeud hele vejen.
+
 #forklaring #formel
 
 **Formel**

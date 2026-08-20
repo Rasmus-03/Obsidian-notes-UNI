@@ -1,5 +1,10 @@
  BMB550 – Fysik Formelsamling 
 
+> [!tip] **For en 5-årig:** 
+> En formelsamling er lidt som en kogebog til fysik. Når du skal bage en kage, slår du op i kogebogen for at finde den rigtige opskrift. Når du skal regne en fysik-opgave, slår du op i formelsamlingen for at finde den rigtige formel. Den samler alle de vigtigste formler på ét sted – med forklaringer, så du kan finde frem til den, du skal bruge.
+> 
+> Her står formlerne fra BMB550 – Mekanik, cirkelbevægelse, centrifugering, elektriske felter, bølger, optik, massespektrometri og Orbitrap – sorteret efter emne med links til detaljerede forklaringer.
+
 Denne note er struktureret som et **Obsidian-system** med foreslåede filnavne, tags og interne links. Hver sektion nedenfor er tænkt som **sin egen note** (du kan splitte dem med *Split note* i Obsidian).
 
 ---

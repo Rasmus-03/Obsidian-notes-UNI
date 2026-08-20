@@ -1,5 +1,8 @@
 ## Coulombs lov – forklaring
 
+> [!tip] **For en 5-årig:** 
+> Tænk på magneter: Nogle tiltrækker hinanden, andre skubber. Det samme gælder for elektriske ladninger. Coulombs lov fortæller præcis, hvor stærk kraften er mellem to ladninger – jo tættere og jo større ladninger, jo større kraft.
+
 **Formel**
 $$
 \vec F = k\frac{q_1 q_2}{r^2}\hat r

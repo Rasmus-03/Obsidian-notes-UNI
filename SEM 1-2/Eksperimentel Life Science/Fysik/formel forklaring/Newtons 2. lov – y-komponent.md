@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> F_y = ma_y handler om kraften i lodret retning (y). Når du løfter en kasse op, kæmper du mod tyngdekraften – det er y-komponenten af Newtons 2. lov i praksis.
 
 **Formel**
 $$

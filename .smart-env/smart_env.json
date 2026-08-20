@@ -27,7 +27,8 @@
   "smart_notices": {
     "muted": {
       "done_import": true,
-      "embedding_complete": true
+      "embedding_complete": true,
+      "new_version_available": true
     }
   },
   "smart_view_filter": {
@@ -71,6 +72,6 @@
     "results_limit": 20
   },
   "embedding_models": {
-    "default_model_key": "transformers#1770291302939"
+    "default_model_key": "transformers#1780475042491"
   }
 }

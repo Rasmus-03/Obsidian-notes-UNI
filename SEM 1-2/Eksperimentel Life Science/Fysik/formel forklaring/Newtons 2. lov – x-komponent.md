@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Kræfter kan virke i forskellige retninger. F_x = ma_x handler kun om kraften i vandret retning (x). Det er som at skubbe en kasse hen ad gulvet – kun vandret skub tæller, ikke om du også trykker nedad.
 
 **Formel**
 $$

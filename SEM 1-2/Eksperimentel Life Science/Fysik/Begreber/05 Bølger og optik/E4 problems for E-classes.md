@@ -1,5 +1,10 @@
 # Fysik template
 
+> [!tip] **For en 5-årig:** 
+> Tænk på en guitarstreng, der synger. Når du knipser den, svinger den og laver lydbølger, der løber gennem luften ind i dit øre. Tynde strenge synger højt (korte bølger), tykke strenge synger dybt (lange bølger). Det handler om bølgelængde og frekvens – jo hurtigere strengen svinger, jo højere bliver lyden.
+> 
+> Her skal du regne på lydbølger og vandbølger – præcis den samme fysik, der får en guitar til at spille og vandet til at skvulpe i en kanal.
+
 > [!question]- Opgave 1 –wavelength  with  frequencies
 > The speed of sound in air is around 
 $$ 346m s^{-1}  $$

@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> θ = ωt betyder: Drejer noget jævnt rundt, vokser vinklen jævnt med tiden. Et minutviser på et ur drejer fx 6 grader i minuttet.
 
 **Formel**
 $$

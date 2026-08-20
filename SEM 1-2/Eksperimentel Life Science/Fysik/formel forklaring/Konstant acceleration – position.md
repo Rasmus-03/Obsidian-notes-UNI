@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Hvis du kører på cykel og træder jævnt i pedalerne, kan du regne ud præcis, hvor du er efter t sekunder. x_f = x_i + v_i t + ½at² fortæller: startposition + hvor langt du nåede fra din startfart + ekstra fra accelerationen.
 
 **Formel**
 $$

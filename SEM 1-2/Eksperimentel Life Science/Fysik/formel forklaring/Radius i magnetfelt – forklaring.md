@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Når en ladet partikel flyver ind i et magnetfelt, tvinges den til at køre i en cirkel. R = mv/qB fortæller, hvor stor cirklen er. Tunge partikler laver store cirkler, lette laver små.
 
 **Formel**
 $$

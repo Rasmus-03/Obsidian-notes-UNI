@@ -1,5 +1,12 @@
 # BØLGER OG OPTIK – INTERAKTIVE OPGAVER
 
+> [!tip] **For en 5-årig:** 
+> Kast en sten i en sø, og du ser ringe sprede sig udad. Det er bølger: Vandet flytter sig ikke væk – det er bølgebevægelsen, der løber gennem vandet. Lyd er også bølger i luften, og lys er bølger, der kan gå gennem glas og vand.
+> 
+> Når lys går fra luft og ned i vand, bøjer det af – ligesom en pind, der ser knækket ud, når du stikker den i vandet. Det kaldes brydning. Briller og mikroskoper bruger præcis den bøjning til at forstørre ting.
+> 
+> Her regner du på, hvordan bølger opfører sig: hvor hurtigt de løber, hvordan de bøjer, og hvordan linser laver billeder. Det hele starter med en sten i en sø!
+
 Alle opgaver vises først som spørgsmål. Løsninger åbnes ved klik.
 
 ---

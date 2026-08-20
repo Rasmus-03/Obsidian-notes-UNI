@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Når du tager et billede med et kamera, skal du stille skarpt. Linseformlen forbinder, hvor langt objektet er fra linsen (d_o), hvor billedet dannes (d_i), og linsens styrke (f). Det er opskriften på et skarpt billede!
 
 **Formel**
 $$

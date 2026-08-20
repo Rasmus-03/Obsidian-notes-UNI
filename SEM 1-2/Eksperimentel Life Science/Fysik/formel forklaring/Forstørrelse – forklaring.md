@@ -1,3 +1,5 @@
+> [!tip] **For en 5-årig:** 
+> Når du kigger i et forstørrelsesglas, ser ting større ud. Forstørrelse m fortæller, hvor meget større billedet er end virkeligheden. Er m negativ, står billedet på hovedet – ligesom i et kamera!
 
 **Formel**
 $$

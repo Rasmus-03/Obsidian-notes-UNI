@@ -1,3 +1,5 @@
+> [!tip] **For en 5-årig:** 
+> Hvis du svinger en spand vand rundt i en cirkel, skal du hive i spanden for at holde den i cirklen. Det hiv er centripetalkraften. Uden den ville spanden flyve lige ud – Newtons første lov i praksis!
 
 **Formel**
 $$

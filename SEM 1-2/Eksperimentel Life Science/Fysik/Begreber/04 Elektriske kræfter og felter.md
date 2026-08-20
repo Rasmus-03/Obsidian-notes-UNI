@@ -1,6 +1,11 @@
 # ELEKTRISKE KRÆFTER OG FELTER – INTERAKTIVE OPGAVER
 
-
+> [!tip] **For en 5-årig:** 
+> Har du gnidet en ballon mod dit hår og set håret rejse sig? Det er elektriske kræfter! Når du gør det, flytter du små ladninger rundt, og de kan trække eller skubbe hinanden på afstand – ligesom usynlige hænder.
+> 
+> Nogle ladninger kan lide hinanden (modsatte trækkes til), og andre skubber hinanden væk (samme ladning skubbes fra). Det er Coulombs lov: Jo tættere de er på hinanden, og jo større ladningerne er, jo stærkere er kraften.
+> 
+> I opgaverne regner du på, hvor stor kraften er mellem ladninger, og hvordan et elektrisk felt – det usynlige område omkring en ladning – påvirker andre ladninger.
 
 ---
 

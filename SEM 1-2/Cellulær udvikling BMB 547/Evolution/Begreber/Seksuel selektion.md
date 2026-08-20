@@ -1,1 +1,0 @@
-Seksuel selektion øger [[Fitness]]

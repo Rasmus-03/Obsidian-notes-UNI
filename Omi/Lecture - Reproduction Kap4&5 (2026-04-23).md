@@ -29,10 +29,6 @@
 
 ---
 
-## 📌 Notes
-- Lecture viewed via itslearning on Safari
-- OCR quality was limited — some slide content may be missing
-- Slides covered chapters 4 & 5 of the reproduction topic
 
 ---
 

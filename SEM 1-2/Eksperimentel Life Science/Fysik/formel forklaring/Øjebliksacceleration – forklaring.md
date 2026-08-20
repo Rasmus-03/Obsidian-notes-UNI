@@ -1,5 +1,8 @@
 # Øjebliksacceleration
 
+> [!tip] **For en 5-årig:** 
+> a(t) er accelerationen lige nu – hvor meget din fart ændrer sig præcis i dette sekund. På en speedometer-graf er det hældningen i ét enkelt punkt.
+
 **Definition**  
 Acceleration på et specifikt tidspunkt.
 

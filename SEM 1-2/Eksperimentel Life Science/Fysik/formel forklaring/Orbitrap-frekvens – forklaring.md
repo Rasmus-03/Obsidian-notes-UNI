@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> I en Orbitrap danser ioner op og ned med en bestemt rytme – ligesom en gynge. Deres frekvens afslører, hvor tunge de er. Jo lettere ionen er, jo hurtigere svinger den.
 
 **Formel**
 $$

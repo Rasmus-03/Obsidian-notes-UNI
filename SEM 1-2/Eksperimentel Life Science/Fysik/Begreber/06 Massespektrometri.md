@@ -1,6 +1,11 @@
 # MASSESPEKTROMETRI – INTERAKTIVE OPGAVER
 
-
+> [!tip] **For en 5-årig:** 
+> Forestil dig en magnethane, der sorterer bolde efter vægt. Lette bolde kastes langt ud, tunge bolde kastes kort – det ligner det, der sker i et massespektrometer! Det er en maskine, der vejer usynligt små partikler (ioner) ved at skyde dem gennem magnetfelter.
+> 
+> De letteste partikler bukker mest og rammer detektoren et bestemt sted. De tungeste bukker mindre. Ved at måle, hvor de rammer, kan man finde ud af, hvor tunge de er – og dermed hvilket stof det er.
+> 
+> Her regner du på, hvordan magnetiske kræfter får partikler til at bevæge sig i cirkler, og hvordan man kan sortere dem efter vægt.
 
 ---
 

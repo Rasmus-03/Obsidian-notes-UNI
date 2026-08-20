@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> T = 1/f betyder: Hvis noget svinger tit (høj frekvens), tager hver svingning kort tid (lille periode). Det er som at blinke med øjnene – hurtige blink = kort tid mellem hvert blink.
 
 **Formel**
 $$

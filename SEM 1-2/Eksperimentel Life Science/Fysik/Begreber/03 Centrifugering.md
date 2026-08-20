@@ -1,5 +1,12 @@
 #  CENTRIFUGERING – INTERAKTIVE OPGAVER
 
+> [!tip] **For en 5-årig:** 
+> Har du set en salatslynge? Når du drejer håndtaget rundt, bliver vandet på salaten kastet ud gennem hullerne. Det er centrifugering: Du snurrer noget rundt, så de tunge ting (vandet) flyver væk fra midten, mens de lette (salaten) bliver tilbage.
+> 
+> I en laboratoriecentrifuge sker det samme, bare med blod eller celler. Når rørene snurrer rundt, synker de tungeste partikler hurtigst til bunds. Man kan regne præcist på, hvor hurtigt de synker – og det er, hvad opgaverne her handler om.
+> 
+> Formlerne fortæller, hvor stor centrifugalkraften er, og hvor hurtigt partiklerne bevæger sig udad. Det er vigtigt, når forskere skal adskille forskellige dele af en blodprøve.
+
 *Alle opgaver vises først som spørgsmål.  
 Løsninger åbnes ved klik.  
 Alle formler virker i Obsidian.*

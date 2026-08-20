@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Når du kører på cykel og accelererer jævnt, kan du regne ud, hvor hurtig du er, når du har tilbagelagt en bestemt afstand. v_f² = v_i² + 2ad forbinder hastighed, acceleration og afstand – uden at skulle måle tiden.
 
 
 **Formel**

@@ -1,5 +1,12 @@
 # CIRKELBEVÆGELSE – INTERAKTIVE OPGAVER
 
+> [!tip] **For en 5-årig:** 
+> Tænk på en karrusel. Når du sidder på en hest og karrusellen drejer rundt, føler du, at du bliver skubbet udad. Men i virkeligheden vil du bare gerne fortsætte lige ud, og karrusellen trækker dig indad. Det indadrettede træk kalder vi centripetalkraft – det er det, der holder dig i cirklen.
+> 
+> Selvom du kører rundt med samme fart, ændrer du hele tiden retning, og det kræver en kraft. Jo hurtigere karrusellen drejer, eller jo længere du sidder fra midten, jo større er kraften.
+> 
+> I opgaverne her skal du regne på den slags bevægelse – både på legepladsen og inde i maskiner, der bruger cirkelbevægelse til at sortere partikler.
+
 *Alle opgaver vises først som spørgsmål.  
 Løsninger åbnes ved klik.  
 Alle formler virker i Obsidian.*

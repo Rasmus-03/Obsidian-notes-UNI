@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "contextMessages": [
+    {
+      "id": "a17f120d-db14-4abe-854e-ca47e7e8c709",
+      "role": "user",
+      "content": "hvad kan du se i min obsidion voult",
+      "promptContext": {
+        "id": "a17f120d-db14-4abe-854e-ca47e7e8c709"
+      },
+      "timestamp": 1780427036815
+    }
+  ],
+  "contextFiles": []
+}

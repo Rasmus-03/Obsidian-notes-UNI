@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Prøv at kigge op gennem vand, når du snorkler – over en bestemt vinkel kan du kun se spejling. Det er totalrefleksion: Lyset kan ikke slippe ud af vandet, men bliver fanget indeni. Fiberkabler bruger det til at sende lys kilometerlangt.
 
 **Formel**
 $$

@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Forestil dig en dørmand, der kun lukker folk ind med en bestemt fart. For langsomme sendes hjem, for hurtige bremses. En hastighedsselektor gør det samme for partikler: Den bruger elektriske og magnetiske kræfter til at vælge partikler med en præcis fart.
 
 **Formel**
 $$

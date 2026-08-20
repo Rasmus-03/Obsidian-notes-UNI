@@ -1,5 +1,8 @@
 ## Newtons 2. lov – forklaring
 
+> [!tip] **For en 5-årig:** 
+> F = m·a betyder: Jo hårdere du skubber en ting, jo hurtigere accelererer den. Men jo tungere tingen er, jo sværere er den at skubbe. Prøv at skubbe en cykel vs. en bil!
+
 **Formel**
 $$
 \vec F_{tot} = m\vec a

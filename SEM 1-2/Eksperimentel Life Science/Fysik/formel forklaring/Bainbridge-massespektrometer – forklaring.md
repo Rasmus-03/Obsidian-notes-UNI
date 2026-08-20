@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Forestil dig en rutsjebane med to sektioner: Først en bane, der vælger, hvor hurtigt du må køre (hastighedsselektor). Bagefter en kurve, der afslører, hvor tung du er (magnetfelt). Bainbridge-massespektrometeret kombinerer elektriske og magnetiske felter for at måle partiklers masse.
 
 **Formel**
 $$

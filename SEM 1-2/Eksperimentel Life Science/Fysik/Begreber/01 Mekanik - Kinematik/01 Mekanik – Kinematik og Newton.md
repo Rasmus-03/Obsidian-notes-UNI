@@ -1,5 +1,12 @@
 # KINEMATIK – INTERAKTIVE OPGAVER
 
+> [!tip] **For en 5-årig:** 
+> Tænk på en bold, du ruller hen ad gulvet. Hvis du giver den et skub, ruller den – og hvis gulvet er glat, ruller den lige ud, indtil den rammer noget. Det er Newtons første lov: Ting bliver ved med at gøre det samme, medmindre en kraft skubber eller trækker i dem. Din hånd er en kraft, væggen er en kraft.
+> 
+> Kinematik handler om at måle, hvordan ting bevæger sig: Hvor langt ruller bolden? Hvor hurtigt? Bliver den langsommere? Man behøver ikke vide *hvorfor* den bremser – man måler bare, hvad der sker. Det er som at være dommer til et løb: Du tager tid og måler afstand.
+> 
+> Her regner du på forskydning, hastighed, acceleration og kast – præcis det samme som en bold på gulvet, bare med tal og formler!
+
 *Dette dokument er 100 % kompatibelt med Obsidian.*  
 *Alle opgaver vises først som **spørgsmål**, løsninger er foldbare.*
 

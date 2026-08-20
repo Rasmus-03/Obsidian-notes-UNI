@@ -1,4 +1,5 @@
-
+> [!tip] **For en 5-årig:** 
+> Når centrifugen snurrer, synker partiklerne udad med en bestemt fart. v_T fortæller, hvor hurtigt de synker – tunge, store partikler synker hurtigere end lette, små.
 
 **Formel**
 $$
