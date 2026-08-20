@@ -11,10 +11,14 @@
             "id": "1ce3e970e526227b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafvisning"
+              "type": "markdown",
+              "state": {
+                "file": "SEM 1-2/Cellulær udvikling BMB 547/KAP 5-7+43 Cellebiologi og immunologi/Kapitel 43 – Immunsystemet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kapitel 43 – Immunsystemet"
             }
           }
         ]
@@ -191,6 +195,16 @@
   },
   "active": "1ce3e970e526227b",
   "lastOpenFiles": [
+    "SEM 3/SEM 3 — Oversigt.md",
+    "Template/Bioanalytisk instrumentering template BMB509.md",
+    "Template/Fysisk Biokemi template BMB540.md",
+    "Template/Molekylær biologi og proteinkemi template BMB533.md",
+    "Template/Fundamental Biokemi template BMB532.md",
+    "SEM 3/Molekylær biologi og proteinkemi BMB533",
+    "SEM 3/Fysisk Biokemi BMB540",
+    "SEM 3/Fundamental Biokemi BMB532",
+    "SEM 3/Bioanalytisk instrumentering BMB509",
+    "SEM 3",
     "2026-07-07-athena-eww-integration-design.md",
     "implementation_plan.md"
   ]
