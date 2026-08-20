@@ -56,3 +56,20 @@ SEM 3/
 
 ### Organisk kemi for BMB (KE555)
 - **Grundstrukturer og stereokemi** · **Delokalisering, resonans og aromaticitet** · **Substitution og elimination** · **Alkoholer, aminer og thioler** · **Carbonylforbindelser** · **Heterocykliske forbindelser** · **Syre-base kemi** · **Biokemiske reaktionstyper** · **Anvendelser i biokemi**
+
+---
+
+## 📝 Eksamensoversigt (fra SDU kursusbeskrivelser)
+
+| Kursus | Kode | Eksamen | ECTS/eksamen | Censur | Hjælpemidler |
+|--------|:----:|---------|:----:|--------|--------------|
+| **Fundamental Biokemi** | BMB532 | Portfolio + tests + **skriftlig stedprøve (4 t, januar)** | 10 | Ekstern | ⚠️ Begrænsede: standardlommeregner, Maple/Mathematica/Mathcad/MatLab/GeoGebra/R/Excel/Calc, ordbogen.com (elektronisk), **ingen internet** |
+| **Molekylær biologi og proteinkemi** | BMB533 | Forudsætningsprøve (lab-deltagelse) + **lab-rapporter** (B/I) + skriftlig | 10 | Intern | Oplyses på kurset |
+| **Fysisk Biokemi** | BMB540 | Forudsætningsprøve (portfolio: lab-rapporter + ¾ oblig. hjemmeopgaver) + **skriftlig eksamen (4 t, januar)** | 5 | Intern (2+ bedømmere) | ⚠️ Begrænsede: standardlommeregner, Maple/Mathematica/Mathcad/MatLab/GeoGebra/R/Excel/Calc, **ingen internet** |
+| **Organisk kemi for BMB** | KE555 | **Mundtlig eksamen (30 min + 60 min forberedelse)** | 5 | Intern (2+ bedømmere) | ✅ Alle almindelige hjælpemidler (bøger, noter, offline-programmer) — **ingen internet** |
+
+> [!TIP] Hurtige noter
+> - **BMB532**: Eksamen er januar, med **begrænsede** hjælpemidler — sæt dig ind i R/Excel til udregninger.
+> - **BMB540**: Portfolio (lab-rapporter + hjemmeopgaver) er **forudsætning** for at kunne gå til 4-timers skriftlig.
+> - **BMB533**: Lab-rapporterne (B/I) er en forudsætningsprøve — få dem godkendt!
+> - **KE555**: Mundtlig — 60 min forberedelse, hvor alle noter/bøger er tilladt (offline).
