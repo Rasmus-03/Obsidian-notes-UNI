@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEM 1-2/Cellulær udvikling BMB 547/KAP 5-7+43 Cellebiologi og immunologi/Kapitel 43 – Immunsystemet.md",
+                "file": "SEM 3/SEM 3 — Oversigt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kapitel 43 – Immunsystemet"
+              "title": "SEM 3 — Oversigt"
             }
           }
         ]
@@ -193,9 +193,36 @@
       "bases:Opret ny base": false
     }
   },
-  "active": "1ce3e970e526227b",
+  "active": "4570b30d2386dd73",
   "lastOpenFiles": [
-    "Template/Organisk kemi for BMB template KE555.md",
+    "Projekter/Athena-Eww Integration/implementation_plan.md",
+    "Projekter/Athena-Eww Integration/2026-07-07-athena-eww-integration-design.md",
+    "Projekter/Athena-Eww Integration",
+    "Projekter",
+    "SEM 1-2/Molekylær data science/Untitled.md",
+    "SEM 1-2/Molekylær data science/Untitled 2.md",
+    "SEM 1-2/Molekylær data science/Untitled 1.md",
+    "SEM 1-2/Molekylær data science/h.md",
+    "SEM 1-2/Molekylær data science/Etime 6 molekylær data science.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 22-26 Evolution/Hardy-Weinberg.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 42+43 Hjerte, kredsløb og respiration/Hjertecyklus.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 48-49 Nervesystem og Sansning/Kap 48.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 47 Development/Fertilization.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Transportmaximum.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Syre-base balance.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Renin-Angiotensin-Aldosteron system.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Osmoregulering.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Nefronet.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Modstrømsmultiplikator.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Henle-slynge.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Glucose-reabsorption.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Glomerulus.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Fisk-osmoregulering.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Diabetes insipidus.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/Bowmans kapsel.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/ANP.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 44 Ekskretion/ADH.md",
+    "SEM 1-2/Cellulær udvikling BMB 547/KAP 5-7+43 Cellebiologi og immunologi/Kapitel 43 – Immunsystemet.md",
     "SEM 3/Organisk kemi for BMB KE555/Syre-base kemi",
     "SEM 3/Organisk kemi for BMB KE555/Substitution og elimination",
     "SEM 3/Organisk kemi for BMB KE555/Heterocykliske forbindelser",
@@ -203,15 +230,6 @@
     "SEM 3/Organisk kemi for BMB KE555/Delokalisering resonans og aromaticitet",
     "SEM 3/Organisk kemi for BMB KE555/Carbonylforbindelser",
     "SEM 3/Organisk kemi for BMB KE555/Biokemiske reaktionstyper",
-    "SEM 3/Organisk kemi for BMB KE555/Anvendelser i biokemi",
-    "SEM 3/Organisk kemi for BMB KE555/Alkoholer aminer og thioler",
-    "SEM 3/Organisk kemi for BMB KE555",
-    "SEM 3/SEM 3 — Oversigt.md",
-    "Template/Bioanalytisk instrumentering template BMB509.md",
-    "Template/Fysisk Biokemi template BMB540.md",
-    "Template/Molekylær biologi og proteinkemi template BMB533.md",
-    "Template/Fundamental Biokemi template BMB532.md",
-    "2026-07-07-athena-eww-integration-design.md",
-    "implementation_plan.md"
+    "SEM 3/Organisk kemi for BMB KE555/Anvendelser i biokemi"
   ]
 }
