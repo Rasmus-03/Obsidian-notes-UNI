@@ -37,3 +37,22 @@ SEM 3/
 > - BMB533 → *Molekylær biologi og proteinkemi template BMB533*
 > - BMB540 → *Fysisk Biokemi template BMB540*
 > - BMB509 → *Bioanalytisk instrumentering template BMB509*
+
+---
+
+## 🧭 Emne-mapping (fra SDU kursusbeskrivelser)
+
+### Fundamental Biokemi (BMB532)
+- **Del I Membraner:** Membran-arkitektur · Transport
+- **Del II Enzymer:** Kinetik · Regulering
+- **Del III Metabolisme:** Introduktion · Glykolyse og glukoneogenese · Glykogen · Pentose-fosfat · Citronsyrecyklus · Fedtsyre-oxidation · Lipid-syntese · Hormonel regulering
+
+### Molekylær biologi og proteinkemi (BMB533)
+- **Proteinkemi:** Foldning · Posttranslational modifikation · Nedbrydning · Metoder
+- **Genomorganisering** · **Info-flow gen-til-protein** · **DNA replikation** · **Rekombination og reparation** · **Transkription** · **RNA processing og splejsning** · **Translation og ribosom** · **Proteinlokalisering** · **Cellesignalering** · **Molekylærbiologiske metoder**
+
+### Fysisk Biokemi (BMB540)
+- **Termodynamik** · **Blandinger og opløsninger** · **Biokemisk kinetik** · **Ioniske opløsninger i biokemi** · **To-tilstandssystemer** · **Lys-stof-vekselvirkning** · **Diffusion og transport**
+
+### Bioanalytisk instrumentering (BMB509)
+- **Mikroskopi og billedbehandling** (inkl. Fluorescensmikroskopi) · **Massespektrometri** · **Kromatografi**
